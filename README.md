@@ -10,3 +10,6 @@ http://www.jianshu.com/p/be248c5af1c6
 http://www.jianshu.com/p/9e810574f740
 
 http://blog.csdn.net/liuhe688/article/category/790276
+
+##xUtils3 控件事件绑定
+http://blog.csdn.net/xujiayin/article/details/51718429
