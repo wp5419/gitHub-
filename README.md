@@ -16,3 +16,7 @@ http://blog.csdn.net/xujiayin/article/details/51718429
 
 ###ListView 
 http://www.cnblogs.com/onlyinweb/archive/2012/09/03/2668430.html
+
+###recycleView
+http://blog.csdn.net/lmj623565791/article/details/45059587
+http://www.tuicool.com/articles/fIbuYfI
