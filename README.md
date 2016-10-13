@@ -23,3 +23,7 @@ http://www.tuicool.com/articles/fIbuYfI
 
 ###sockent
 http://gold.xitu.io/post/57f885370bd1d00058b37d74
+
+#### 自定义属性
+http://www.jb51.net/article/78883.htm
+
