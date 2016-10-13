@@ -20,3 +20,6 @@ http://www.cnblogs.com/onlyinweb/archive/2012/09/03/2668430.html
 ###recycleView
 http://blog.csdn.net/lmj623565791/article/details/45059587
 http://www.tuicool.com/articles/fIbuYfI
+
+###sockent
+http://gold.xitu.io/post/57f885370bd1d00058b37d74
