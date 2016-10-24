@@ -2,6 +2,8 @@
 
 ##下载客户端
 http://blog.csdn.net/hk_5788/article/details/51339312
+
+https://www.zhihu.com/question/20070065/answer/79557687
 #创建组织
 http://www.cnblogs.com/haore147/p/4219673.html
 #安卓开源项目
