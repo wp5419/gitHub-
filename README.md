@@ -28,3 +28,5 @@ http://gold.xitu.io/post/57f885370bd1d00058b37d74
 http://www.jb51.net/article/78883.htm
 http://blog.csdn.net/janice0529/article/details/34425549
 
+###app设计
+http://www.25xt.com/appdesign/6536.html
