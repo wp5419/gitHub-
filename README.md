@@ -34,3 +34,7 @@ http://www.25xt.com/appdesign/6536.html
 #### android 资料
 http://www.jianshu.com/p/0911efbf8009
 https://github.com/GeniusVJR/LearningNotes
+
+http://www.phpxs.com/code/1001775/
+
+https://github.com/lizhangqu/corelink
