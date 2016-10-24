@@ -30,3 +30,7 @@ http://blog.csdn.net/janice0529/article/details/34425549
 
 ###app设计
 http://www.25xt.com/appdesign/6536.html
+
+#### android 资料
+http://www.jianshu.com/p/0911efbf8009
+https://github.com/GeniusVJR/LearningNotes
